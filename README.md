@@ -25,7 +25,7 @@ I enjoy exploring complex systems at the source-code level, solving challenging 
 - ☸️ **Kubernetes Expert** — Deep understanding of Kubernetes architecture, source code, controllers, resource management, and Operators.
 - ☁️ **Cloud Architect** — AWS Certified Solutions Architect (2019), with hands-on experience in Azure and GCP.
 - 🤖 **AI & Agent Engineer** — Working in NLP since 2021, specializing in AI Agents and multi-agent architectures.
-- 🌍 **Open Source Contributor** — Contributions to Kubernetes, Dify, and Cline.
+- 🌍 **Open Source Contributor** — Dify.
 - 🛠️ **AI Product Builder** — Designed and developed LizorCube Pilot, an AI-powered coding assistant.
 
 ---
@@ -125,18 +125,6 @@ Designed to bring agentic AI capabilities into real-world software engineering w
 
 Built with TypeScript, focusing on practical AI-assisted software development.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zl86790&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zl86790&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zl86790&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
