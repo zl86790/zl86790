@@ -33,7 +33,7 @@ I enjoy understanding complex systems at the source-code level, solving challeng
 - ☸️ **Kubernetes & Cloud Native** — Architecture, source code, Operators, DRA, Device Plugins, and resource management.
 - ☁️ **Cloud Architecture** — AWS, Azure, GCP, distributed systems, and cloud-native infrastructure.
 - 🤖 **AI & Agent Engineering** — LLMs, NLP, Agent architectures, and multi-agent systems.
-- 🌍 **Open Source** — Contributions to Kubernetes, Dify, and Cline.
+- 🌍 **Open Source** — Actively involved in the Kubernetes, Dify, and Cline communities.
 - 🛠️ **Product Engineering** — Creator of LizorCube Pilot, an AI-powered coding assistant.
 
 ---
