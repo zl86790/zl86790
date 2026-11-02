@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-Since%202017-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Since%202021-purple" />
   <img src="https://img.shields.io/badge/Dify-Contributor-155EEF" />
+  <img src="https://img.shields.io/badge/HAMi-Contributor-326CE5" />
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?logo=amazonaws&logoColor=white" />
 </p>
 
@@ -33,7 +34,7 @@ I enjoy understanding complex systems at the source-code level, solving challeng
 - ☸️ **Kubernetes & Cloud Native** — Architecture, source code, Operators, DRA, Device Plugins, and resource management.
 - ☁️ **Cloud Architecture** — AWS, Azure, GCP, distributed systems, and cloud-native infrastructure.
 - 🤖 **AI & Agent Engineering** — LLMs, NLP, Agent architectures, and multi-agent systems.
-- 🌍 **Open Source** — Actively involved in the Kubernetes, Dify, and Cline communities.
+- 🌍 **Open Source** — Actively involved in the Kubernetes, Dify, Cline, and HAMi communities.
 - 🛠️ **Product Engineering** — Creator of LizorCube Pilot, an AI-powered coding assistant.
 
 ---
@@ -48,6 +49,7 @@ Working with Kubernetes since 2017.
 - Controllers, Informers, Work Queues, and reconciliation mechanisms.
 - Operator development and Kubernetes API extensions.
 - Dynamic Resource Allocation (DRA) and Device Plugins.
+- GPU resource management and HAMi-DRA integration.
 - Scheduler, Kubelet, resource managers, and container runtime internals.
 - Concurrency, race conditions, debugging, and root-cause analysis.
 - Docker, containerd, and Linux container technologies.
@@ -84,12 +86,14 @@ I believe that understanding a technology is not enough. Contributing code back 
 |---|---|
 | Kubernetes | Core architecture, concurrency, resource management, and cloud-native infrastructure |
 | Dify | Backend bug fixes, Redis Streams, and reliability improvements |
+| HAMi | GPU resource management, DRA driver, and hardware topology detection |
 | Cline | Developer tooling, bug investigation, and reliability improvements |
 
 ### Selected Work
 
-- **Dify** — Redis Streams bug fix (#40964, merged).
+- **Dify** — Redis Streams bug fix ([#40964](https://github.com/langgenius/dify/pull/40964), merged).
 - **Kubernetes** — Investigating and addressing issues involving APIService, HTTP/2, DRA, concurrency, and resource management.
+- **HAMi** — Fixed GPU PCIe Root attribute detection in the HAMi DRA driver, with accompanying unit tests ([#58](https://github.com/Project-HAMi/k8s-dra-driver/pull/58)).
 - **Cline** — Bug investigations and proposed improvements to developer tooling.
 
 ---
