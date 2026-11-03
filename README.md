@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Docker-Since%202013-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-Since%202017-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Since%202021-purple" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-Contributor-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Dify-Contributor-155EEF" />
   <img src="https://img.shields.io/badge/HAMi-Contributor-326CE5" />
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?logo=amazonaws&logoColor=white" />
@@ -17,6 +21,8 @@
 Senior Software Engineer with **20+ years of experience** in software development, system architecture, and engineering.
 
 My professional background spans the **banking and internet e-commerce industries**, with extensive experience in backend development, distributed systems, cloud-native infrastructure, and AI-powered software engineering.
+
+I am an active **Kubernetes contributor**, also involved in the Dify, HAMi, and Cline open-source communities.
 
 I enjoy understanding complex systems at the source-code level, solving challenging engineering problems, and turning technical ideas into practical products.
 
@@ -34,7 +40,7 @@ I enjoy understanding complex systems at the source-code level, solving challeng
 - ☸️ **Kubernetes & Cloud Native** — Architecture, source code, Operators, DRA, Device Plugins, and resource management.
 - ☁️ **Cloud Architecture** — AWS, Azure, GCP, distributed systems, and cloud-native infrastructure.
 - 🤖 **AI & Agent Engineering** — LLMs, NLP, Agent architectures, and multi-agent systems.
-- 🌍 **Open Source** — Actively involved in the Kubernetes, Dify, Cline, and HAMi communities.
+- 🌍 **Open Source** — Active contributor to Kubernetes, with contributions and involvement across Dify, HAMi, and Cline.
 - 🛠️ **Product Engineering** — Creator of LizorCube Pilot, an AI-powered coding assistant.
 
 ---
@@ -43,7 +49,7 @@ I enjoy understanding complex systems at the source-code level, solving challeng
 
 ### ☸️ Kubernetes & Cloud Native
 
-Working with Kubernetes since 2017.
+Working with Kubernetes since 2017. Actively contributing to the Kubernetes project, with a focus on debugging, concurrency, resource management, and core component reliability.
 
 - Kubernetes architecture and source-code analysis.
 - Controllers, Informers, Work Queues, and reconciliation mechanisms.
@@ -80,19 +86,21 @@ Working in AI and Natural Language Processing since 2021.
 
 ## 🌍 Open Source Contributions
 
-I believe that understanding a technology is not enough. Contributing code back to the community is an essential part of engineering.
+**Kubernetes Contributor** | Dify | HAMi | Cline
+
+I actively participate in open-source development, focusing on source-level debugging, root-cause analysis, reliability improvements, and practical engineering solutions.
 
 | Project | Focus Areas |
 |---|---|
-| Kubernetes | Core architecture, concurrency, resource management, and cloud-native infrastructure |
-| Dify | Backend bug fixes, Redis Streams, and reliability improvements |
-| HAMi | GPU resource management, DRA driver, and hardware topology detection |
-| Cline | Developer tooling, bug investigation, and reliability improvements |
+| **Kubernetes** | Core architecture, concurrency, Kubelet, resource management, and cloud-native infrastructure |
+| **Dify** | Backend bug fixes, Redis Streams, and reliability improvements |
+| **HAMi** | GPU resource management, DRA driver, and hardware topology detection |
+| **Cline** | Developer tooling, bug investigation, and reliability improvements |
 
 ### Selected Work
 
+- **Kubernetes** — Contributing bug investigations, fixes, and tests involving Kubelet, container lifecycle, concurrency, APIService, HTTP/2, and resource management.
 - **Dify** — Redis Streams bug fix ([#40964](https://github.com/langgenius/dify/pull/40964), merged).
-- **Kubernetes** — Investigating and addressing issues involving APIService, HTTP/2, DRA, concurrency, and resource management.
 - **HAMi** — Fixed GPU PCIe Root attribute detection in the HAMi DRA driver, with accompanying unit tests ([#58](https://github.com/Project-HAMi/k8s-dra-driver/pull/58)).
 - **Cline** — Bug investigations and proposed improvements to developer tooling.
 
@@ -150,16 +158,6 @@ LLM · NLP · AI Agents · Multi-Agent Systems · RAG · Dify · AI Coding Assis
 
 ---
 
-## 🎯 Engineering Philosophy
-
-- **Source Code over Assumptions** — Understand how systems actually work, not just how documentation describes them.
-- **Root Cause over Workarounds** — Identify and fix underlying problems rather than treating symptoms.
-- **Engineering Quality** — Prioritize maintainability, reliability, testing, and architectural consistency.
-- **Open Source** — Learn from the community and contribute improvements back.
-- **Continuous Evolution** — Embrace new technologies and turn ideas into practical engineering solutions.
-
----
-
 <p align="center">
-  <b>Always Learning. Always Building. Always Contributing. 🚀</b>
+  <b>🧭 Every crossroad has a right way. 🛤️</b>
 </p>
