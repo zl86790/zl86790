@@ -97,13 +97,6 @@ I actively participate in open-source development, focusing on source-level debu
 | **HAMi** | GPU resource management, DRA driver, and hardware topology detection |
 | **Cline** | Developer tooling, bug investigation, and reliability improvements |
 
-### Selected Work
-
-- **Kubernetes** — Contributing bug investigations, fixes, and tests involving Kubelet, container lifecycle, concurrency, APIService, HTTP/2, and resource management.
-- **Dify** — Redis Streams bug fix ([#40964](https://github.com/langgenius/dify/pull/40964), merged).
-- **HAMi** — Fixed GPU PCIe Root attribute detection in the HAMi DRA driver, with accompanying unit tests ([#58](https://github.com/Project-HAMi/k8s-dra-driver/pull/58)).
-- **Cline** — Bug investigations and proposed improvements to developer tooling.
-
 ---
 
 ## 🛠️ Featured Project
