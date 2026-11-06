@@ -22,7 +22,7 @@ Senior Software Engineer with **20+ years of experience** in software developmen
 
 My professional background spans the **banking and internet e-commerce industries**, with extensive experience in backend development, distributed systems, cloud-native infrastructure, and AI-powered software engineering.
 
-I am an active **Kubernetes contributor**, also involved in the Dify, HAMi, and Cline open-source communities.
+I am an active Kubernetes contributor, also involved in the Dify, HAMi, and Cline open-source communities.
 
 I enjoy understanding complex systems at the source-code level, solving challenging engineering problems, and turning technical ideas into practical products.
 
